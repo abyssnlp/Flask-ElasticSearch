@@ -1,0 +1,3 @@
+elasticsearch
+tensorflow
+tensorflow_hub
